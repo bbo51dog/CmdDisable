@@ -1,0 +1,5 @@
+name: CmdDisable
+api: [3.0.0]
+main: bboyyu51\cmddisable\Main
+version: 1.0.0
+author: bboyyu51
