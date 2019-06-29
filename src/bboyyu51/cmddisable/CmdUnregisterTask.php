@@ -2,7 +2,7 @@
 
 namespace bboyyu51\cmddisable;
 
-use pocketine\Server;
+use pocketmine\Server;
 use pocketmine\scheduler\Task;
 use pocketmine\command\Command;
 
